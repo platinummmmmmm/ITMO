@@ -57,5 +57,6 @@
 | https://github.com/maxbarsukov/itmo/tree/master/5%20моделирование                                 | Лабы от 🦡-а (он сдал самому Ауфу, так что рекомендую вам тоже туда заглянуть) |
 | https://github.com/Imtjl <br> https://github.com/EgorMIt/ITMO <br> https://github.com/RedGry/ITMO | Много готовых лабораторных работ, тестов и гайдов                              |
 | https://drive.google.com/drive/folders/1rSieDJ9gNiq1PbYlsENv5BAgZyjCTSj9                          | Все необходимые материалы для сдачи УИР или компьютерных тестов                |
+| [./Lab2/docs](./Lab2/docs) | Документация WinMark на человеческом языке| 
 
 ---
